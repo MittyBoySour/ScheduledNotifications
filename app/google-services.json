@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "597436849775",
+    "firebase_url": "https://schedulednotifications-14451.firebaseio.com",
+    "project_id": "schedulednotifications-14451",
+    "storage_bucket": "schedulednotifications-14451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597436849775:android:6913382d5314b543",
+        "android_client_info": {
+          "package_name": "com.mad.schedulednotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597436849775-og2fs60j1t3d6h0u497co2k89v1914gj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.schedulednotifications",
+            "certificate_hash": "e2eb1facde9c47379edccf4a9254dee7950f9926"
+          }
+        },
+        {
+          "client_id": "597436849775-iouear37fvalldsro2rdhmtjesffjba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4AuA2si-q9ZuVEjXMXBqqgTM5ziNpwMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597436849775-iouear37fvalldsro2rdhmtjesffjba1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
